@@ -45,8 +45,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GoalArea.cs" />
-     <Compile Include="Assets\Scripts\Segway.cs" />
+     <Compile Include="Assets\Resources\Scripts\GameStart.cs" />
+     <Compile Include="Assets\Resources\Scripts\GoalArea.cs" />
+     <Compile Include="Assets\Resources\Scripts\Segway.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

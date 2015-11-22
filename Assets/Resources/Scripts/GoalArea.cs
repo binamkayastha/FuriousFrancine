@@ -15,9 +15,9 @@ public class GoalArea : MonoBehaviour {
 
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.GetComponent("Segway") != null)
+        /*if (collision.gameObject.GetComponent("Segway") != null)
         {
             // player won
-        }
+        }*/
     }
 }
